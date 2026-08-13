@@ -27,13 +27,7 @@ The project demonstrates several Java concurrency mechanisms:
 - Producer-consumer communication
 - Poison pill pattern
 - Parallel network operations
-
-## What I Learned
-
-Through this project I gained practical experience with concurrent programming, synchronization and coordinating multiple threads.
-
-I also learned more about TCP networking, client-server communication, transferring binary data and designing applications where several tasks run simultaneously.
-
+- 
 ## Technologies
 
 - Java
