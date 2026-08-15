@@ -37,10 +37,6 @@ The project demonstrates several Java concurrency mechanisms:
 - TCP/IP
 - Maven
 
-## Status
-
-The project was created as a university assignment and some functionality, particularly progress tracking and pausing transfers, remains incomplete.
-
 ## University Project
 
 Developed for the **Concurrent Programming** course.
